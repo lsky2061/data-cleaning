@@ -241,7 +241,7 @@ ce_rep_withcoal.plot.scatter(x="Average Employees",y="frac")
 
 #NEXT STEPS
 ## Histograms of coal vs. no coal
-## Scatter plots with different colors
+## Scatter plots with different colors (e.g. black for coal, hollow for others)
 ## Geographic plots (maps)
 ## Address county discrepancies 
 
